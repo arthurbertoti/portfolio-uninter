@@ -44,6 +44,7 @@ nav ul li a:hover {
   color: #ddd;
 }
 
+/* Estilo dos textos na página */
 section {
   display: flex;
   flex-direction: column;
